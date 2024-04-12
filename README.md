@@ -1,0 +1,1 @@
+Test csharp WinForm auto updater
