@@ -30,6 +30,8 @@ ROADMAP-OF-FEATURES-TO-BE-ADDED:
 
 
 ## Changelog
+### -- v0.3.1  
+Fixed player2 Inventory loading bug  
 
 ### -- v0.3.0  
 Create/Restore backups re-enabled  
