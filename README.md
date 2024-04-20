@@ -21,7 +21,7 @@ Latest Version of .NET Libraries
 *Remove/Add Items to your inventory*  
 *Easy to use*  
 
-ROADMAP-OF-FEATURES-TO-BE-ADDED:
+ROADMAP-OF-FEATURES-TO-BE-ADDED:  
 *Convert Singleplayer to Multiplayer save(vice-versa)*  
 *Easy change Item Quantity*  
 *Create custom filled containers*  
@@ -31,6 +31,7 @@ ROADMAP-OF-FEATURES-TO-BE-ADDED:
 *Unlock recipes*  
 *Improve Player Stats*  
 *Full list of features/items coming soon*
+*Remove Stack OR Item*
 
 ## Changelog
 ### -- v0.3.2  
