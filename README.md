@@ -27,9 +27,16 @@ ROADMAP-OF-FEATURES-TO-BE-ADDED:
 *Create custom filled containers*  
 *Change current Item Durability*  
 *Create custom item names*  
-
+*Add/Remove Effects from player*  
+*Unlock recipes*  
+*Improve Player Stats*  
+*Full list of features/items coming soon*
 
 ## Changelog
+### -- v0.3.2  
+Added more items!  
+Fixed JSON loading bugs
+
 ### -- v0.3.1  
 Fixed player2 Inventory loading bug  
 
