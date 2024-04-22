@@ -31,9 +31,14 @@ ROADMAP-OF-FEATURES-TO-BE-ADDED:
 *Unlock recipes*  
 *Improve Player Stats*  
 *Full list of features/items coming soon*
-*Remove Stack OR Item*
+*Remove Stack OR Item*  
+*Add support for custom items*  
 
 ## Changelog
+### -- v0.3.5  
+Half of the game items are now added  
+v1 publish when all items are added  
+
 ### -- v0.3.4  
 Found at bug right after the last update  
 Fixed bug allowing player to add more to a full inventory  
