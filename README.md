@@ -35,6 +35,11 @@ ROADMAP-OF-FEATURES-TO-BE-ADDED:
 *Add support for custom items*  
 
 ## Changelog
+### -- v0.4.0    
+All game items should now be in and working!  
+A bit of cleaning up to do now before the v1 release  
+Then new feature time babyyy :)  
+
 ### -- v0.3.5  
 Half of the game items are now added  
 v1 publish when all items are added  
