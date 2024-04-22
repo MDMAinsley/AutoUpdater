@@ -34,6 +34,10 @@ ROADMAP-OF-FEATURES-TO-BE-ADDED:
 *Remove Stack OR Item*
 
 ## Changelog
+### -- v0.3.3    
+Added more items!  
+I need to actually add bugs to the issues as I've already forgot what ones there are  
+
 ### -- v0.3.2  
 Added more items!  
 Fixed JSON loading bugs
