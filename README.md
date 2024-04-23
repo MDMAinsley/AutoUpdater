@@ -30,11 +30,17 @@ ROADMAP-OF-FEATURES-TO-BE-ADDED:
 *Add/Remove Effects from player*  
 *Unlock recipes*  
 *Improve Player Stats*  
-*Full list of features/items coming soon*
-*Remove Stack OR Item*  
+*Full list of features/items coming soon*  
 *Add support for custom items*  
 
-## Changelog
+## Changelog  
+### -- v0.4.1  
+Quite a big update!  
+Added In-Game TimeDate display  
+Added option to remove row or 1  
+The time/date of the save WILL be tied in to the food creation eventually.  
+Then the 0.5.0 release will come :)    
+
 ### -- v0.4.0    
 All game items should now be in and working!  
 A bit of cleaning up to do now before the v1 release  
