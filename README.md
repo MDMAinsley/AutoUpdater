@@ -34,6 +34,13 @@ ROADMAP-OF-FEATURES-TO-BE-ADDED:
 *Add support for custom items*  
 
 ## Changelog  
+### -- v0.4.2  
+I didn't update the program version again last time ...  
+But this version for sure works!  
+All items are working to my knowledge  
+Spoilable foods are added based on the save's current DateTime!  
+Now just a tidy before the v1 :)    
+
 ### -- v0.4.1  
 Quite a big update!  
 Added In-Game TimeDate display  
