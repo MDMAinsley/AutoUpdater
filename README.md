@@ -34,6 +34,10 @@ ROADMAP-OF-FEATURES-TO-BE-ADDED:
 *Add support for custom items*  
 
 ## Changelog  
+### -- v0.4.3  
+Fixed the player2 inventory bug  
+Fixed going over the allowed limit bug for new items  
+
 ### -- v0.4.2  
 I didn't update the program version again last time ...  
 But this version for sure works!  
