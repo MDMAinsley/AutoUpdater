@@ -28,12 +28,14 @@ Latest Version of .NET Libraries
 ROADMAP-OF-FEATURES-TO-BE-ADDED:  
 *Convert Singleplayer to Multiplayer save(vice-versa)*  
 *Create custom filled containers*    
-*Create custom item names*  
 *Add/Remove Effects from player*  
 *Unlock recipes*  
 *Improve Player Stats*  
 *Full list of features/items coming soon*  
 *Add support for custom items*  
+
+NOT POSSIBLE  
+*Create custom item names*  
 
 ## Changelog  
 ### -- v0.5.0  
