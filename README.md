@@ -20,12 +20,14 @@ Latest Version of .NET Libraries
 *Auto-update feature*  
 *Remove/Add Items to your inventory*  
 *Easy to use*  
+*Easy change Item Quantity*  
+*Change current Item Durability*  
+*Make food never spoil*
+
 
 ROADMAP-OF-FEATURES-TO-BE-ADDED:  
 *Convert Singleplayer to Multiplayer save(vice-versa)*  
-*Easy change Item Quantity*  
-*Create custom filled containers*  
-*Change current Item Durability*  
+*Create custom filled containers*    
 *Create custom item names*  
 *Add/Remove Effects from player*  
 *Unlock recipes*  
@@ -34,6 +36,11 @@ ROADMAP-OF-FEATURES-TO-BE-ADDED:
 *Add support for custom items*  
 
 ## Changelog  
+### -- v0.5.0  
+Added make food never spoil feature  
+Added some new buttons for ease of use  
+Fixed known loading/saving bugs  
+
 ### -- v0.4.3  
 Fixed the player2 inventory bug  
 Fixed going over the allowed limit bug for new items  
