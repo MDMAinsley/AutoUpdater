@@ -38,6 +38,11 @@ NOT POSSIBLE
 *Create custom item names*  
 
 ## Changelog  
+### -- v0.5.1  
+Re-added Max Quantity visual  
+Re-added Max Durability visual  
+Tidied up to avoid many MessageBox's  
+
 ### -- v0.5.0  
 Added make food never spoil feature  
 Added some new buttons for ease of use  
