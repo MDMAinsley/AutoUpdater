@@ -38,6 +38,11 @@ NOT POSSIBLE
 *Create custom item names*  
 
 ## Changelog  
+### -- v0.5.2  
+Added cooking/smoking functions  
+**Poor coding means you have to make an entire stack either 'cooked'/'smoked' etc**  
+**THIS WILL BE FIXED EVENTUALLY, AFTER v1**  
+
 ### -- v0.5.1  
 Re-added Max Quantity visual  
 Re-added Max Durability visual  
